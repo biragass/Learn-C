@@ -1,2 +1,2 @@
 # Learn-C
-Lista 42
+List 42
