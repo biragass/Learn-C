@@ -1,0 +1,15 @@
+git init   - inicializa um novo repositório.
+git add .  - adiciona os novos arquivos  para serem comitados.
+git status - verifica o status dos arquivos para serem comitados, se forem vermelhos dar git add . para poderem 
+	     ser comitados.
+git commit -m "informações da atualização".
+git push https://github.com/biragass/Learn-C(endereço do repositório) - para adicionar um novo arquivo no 
+	                                                                repositório // se for atualizar só git push.
+git branch - permite ver qual branch está ativa.
+git checkout (nome da branch) - permite mudar para uma nova branch.
+git checkout -b (nome da branch de origem) (nome da nova branch) - permite mudar e criar uma nova branch 
+								   com base na outra.
+git merge (branch a receber merge) - permite fazer o merge da branch ativa para a branch selecionada.
+git pull - atualiza a branch ativa.
+touch .gitignore - cria um arquivo para adicioar o nome dos arquivos e a extensão, dos arquivos 
+		    que não devem ser comitados.
